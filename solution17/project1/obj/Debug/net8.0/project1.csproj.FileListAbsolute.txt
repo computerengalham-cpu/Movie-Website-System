@@ -1,0 +1,14 @@
+C:\Users\alham\Downloads\swaiq solution\solution17\project1\bin\Debug\net8.0\project1.exe
+C:\Users\alham\Downloads\swaiq solution\solution17\project1\bin\Debug\net8.0\project1.deps.json
+C:\Users\alham\Downloads\swaiq solution\solution17\project1\bin\Debug\net8.0\project1.runtimeconfig.json
+C:\Users\alham\Downloads\swaiq solution\solution17\project1\bin\Debug\net8.0\project1.dll
+C:\Users\alham\Downloads\swaiq solution\solution17\project1\bin\Debug\net8.0\project1.pdb
+C:\Users\alham\Downloads\swaiq solution\solution17\project1\obj\Debug\net8.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alham\Downloads\swaiq solution\solution17\project1\obj\Debug\net8.0\project1.AssemblyInfoInputs.cache
+C:\Users\alham\Downloads\swaiq solution\solution17\project1\obj\Debug\net8.0\project1.AssemblyInfo.cs
+C:\Users\alham\Downloads\swaiq solution\solution17\project1\obj\Debug\net8.0\project1.csproj.CoreCompileInputs.cache
+C:\Users\alham\Downloads\swaiq solution\solution17\project1\obj\Debug\net8.0\project1.dll
+C:\Users\alham\Downloads\swaiq solution\solution17\project1\obj\Debug\net8.0\refint\project1.dll
+C:\Users\alham\Downloads\swaiq solution\solution17\project1\obj\Debug\net8.0\project1.pdb
+C:\Users\alham\Downloads\swaiq solution\solution17\project1\obj\Debug\net8.0\project1.genruntimeconfig.cache
+C:\Users\alham\Downloads\swaiq solution\solution17\project1\obj\Debug\net8.0\ref\project1.dll
